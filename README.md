@@ -50,4 +50,4 @@ Permite trabajar bajo una filosofía **"Local First" (Modo Avión)**: crea, edit
 
 1. **Clonar el repositorio**
    ```bash
-   git clone [https://github.com/TU_USUARIO/turbowoo.git](https://github.com/TU_USUARIO/turbowoo.git)
+   git clone https://github.com/elpato001/TurboWoo.git
