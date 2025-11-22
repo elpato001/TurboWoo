@@ -72,4 +72,8 @@ Permite trabajar bajo una filosofía **"Local First" (Modo Avión)**: crea, edit
 
 - **Usuario WP & Contraseña de Aplicación**: Necesario para la subida de imágenes (Obtenlo en Usuarios > Perfil > Contraseñas de aplicación).
 
+<img width="779" height="905" alt="wizard TurboWoo" src="https://github.com/user-attachments/assets/e7b46512-c68e-4283-9f25-fd8587f4ef71" />
 
+<img width="602" height="331" alt="comprobancion" src="https://github.com/user-attachments/assets/8017b460-da08-4988-a83f-ccbcf22ed659" />
+
+<img width="1360" height="601" alt="pedidos" src="https://github.com/user-attachments/assets/dea3dca2-aef5-4752-a9da-e6479a4686bb" />
