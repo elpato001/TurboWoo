@@ -54,22 +54,6 @@ Permite trabajar bajo una filosofía **"Local First" (Modo Avión)**: crea, edit
 
 Instalar dependencias de PHP Navega a la carpeta del proyecto y ejecuta:
 
-Bash
 ```bash
 composer install
 
-Iniciar el Instalador
-
-Abre tu navegador y ve a la ruta del proyecto (ej: http://localhost/turbowoo).
-
-El sistema detectará que no está configurado y te redirigirá al Asistente de Instalación.
-
-Configuración Inicial El asistente te pedirá:
-
-Credenciales de tu BD Local (root/vacío en XAMPP).
-
-URL de tu tienda WooCommerce.
-
-Consumer Key & Secret: Obtenidos en WooCommerce > Ajustes > Avanzado > API REST.
-
-Usuario WP & Contraseña de Aplicación: Necesario para la subida de imágenes (Obtenlo en Usuarios > Perfil > Contraseñas de aplicación).
