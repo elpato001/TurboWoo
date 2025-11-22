@@ -33,7 +33,7 @@
                 <h5 class="text-primary mt-3">1. Base de Datos Local</h5>
                 <div class="row g-2">
                     <div class="col-md-6"><input type="text" name="db_host" class="form-control" value="localhost" required></div>
-                    <div class="col-md-6"><input type="text" name="db_name" class="form-control" value="gestion_insis" required></div>
+                    <div class="col-md-6"><input type="text" name="db_name" class="form-control" value="turbowoo" required></div>
                     <div class="col-md-6"><input type="text" name="db_user" class="form-control" value="root" required></div>
                     <div class="col-md-6"><input type="password" name="db_pass" class="form-control" placeholder="Contraseña BD"></div>
                 </div>
