@@ -1,0 +1,16 @@
+# Ignorar configuración con claves reales
+/includes/config.php
+
+# Ignorar dependencias de Composer (se instalan, no se suben)
+/vendor
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar la carpeta de fotos temporales locales
+/assets/fotos_temp/*
+!/assets/fotos_temp/.gitkeep
+
+# Ignorar logs de error
+*.log
